@@ -7,8 +7,8 @@
 class hall {
   private:
     char hallpin;
-    int pulses;
   public:
+    int pulses;
     
     hall(char hallpin);
     
